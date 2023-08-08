@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted, ref } from 'vue';
-import movies from './movies.json'
+import movies from './Moviess.json'
 
 import Magnify from 'vue-material-design-icons/Magnify.vue';
 import HomeOutline from 'vue-material-design-icons/HomeOutline.vue';
